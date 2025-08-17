@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@layer components {
+    .mycontainer {
+        container-type: inline-size;
+        padding-inline: 1rem;
+        padding-block: 2rem;
+        margin-inline: auto;
+        max-width: 1200px;
+    }
+    
+    @media (min-width: 640px) {
+        .mycontainer {
+            padding-inline: 2rem;
+            padding-block: 3rem;
+        }
+    }
+    
+    @media (min-width: 768px) {
+        .mycontainer {
+            padding-inline: 4rem;
+            padding-block: 3rem;
+        }
+    }
+    
+    @media (min-width: 1024px) {
+        .mycontainer {
+            padding-inline: 6rem;
+            padding-block: 4rem;
+        }
+    }
+    
+    @media (min-width: 1280px) {
+        .mycontainer {
+            padding-inline: 10rem;
+            padding-block: 4rem;
+        }
+    }
+}
