@@ -77,7 +77,7 @@ const Manager = () => {
 
    const handleChange = (e)=>{
     // Updates the form by spreading existing fields and replacing the field whose name matches the input with 
-    // the new value. This powers all three inputs.
+    // the new value. This powers all three inputs
       setform({...form, [e.target.name]:e.target.value})
    }
 
