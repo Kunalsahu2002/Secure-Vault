@@ -2,6 +2,10 @@
 
 This repository contains two versions of a secure password management application.
 
+## 🌐 Live Demo
+
+ https://kunalsahu2002.github.io/Secure-Vault
+
 ## 📁 Project Overview
 
 ### 1. Secure-Vault (Frontend-Only)
