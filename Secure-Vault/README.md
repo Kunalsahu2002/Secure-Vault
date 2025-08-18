@@ -4,7 +4,7 @@ A modern, secure, and user-friendly password management application built with R
 
 ## 🌐 Live Demo
 
- https://kunalsahu2002.github.io/Secure-Vault/
+ https://kunalsahu2002.github.io/Secure-Vault
 
 ## ✨ Features
 
